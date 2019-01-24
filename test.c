@@ -1,4 +1,4 @@
-int main void()
+xint main void()
 {
 printf("hello world");
 }
